@@ -52,7 +52,7 @@
 
 <ul>
   <li><b>Portfolio Website:</b> Modern, animated CV presentation with space, stars, and flying bird background.</li>
-  <li><b>GCIS Network Controller:</b> Installation and troubleshootng of software and hardware , maintenance, and user support .</li>
+  <li><b>GCIS Network Controller:</b> Installation and troubleshooting of software and hardware , maintenance,antivirus, and user support .</li>
   <li><b>DYICT Java Program:</b> Software development skills and project management training.</li>
 </ul>
 
