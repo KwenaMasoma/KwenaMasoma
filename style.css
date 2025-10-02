@@ -1,0 +1,93 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+  color: #f0f3fa;
+  background: transparent;
+  overflow-x: hidden;
+}
+
+#space-bg {
+  position: fixed;
+  top: 0; left: 0;
+  z-index: 0;
+  width: 100vw;
+  height: 100vh;
+  display: block;
+  background: #0d1c2c;
+}
+
+.overlay {
+  position: relative;
+  z-index: 2;
+  max-width: 800px;
+  margin: 40px auto;
+  background: rgba(23, 34, 54, 0.85);
+  padding: 30px 40px;
+  border-radius: 20px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+  backdrop-filter: blur(4px);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-size: 2.8em;
+  margin-bottom: 0.2em;
+  letter-spacing: 2px;
+  color: #e8ebf7;
+}
+
+header p {
+  font-size: 1.2em;
+  color: #a5b4c6;
+}
+
+.contact {
+  font-size: 1em;
+  color: #c9e4fa;
+  margin-top: 0.6em;
+}
+
+section {
+  margin-bottom: 25px;
+}
+
+section h2 {
+  color: #68aee8;
+  font-size: 1.3em;
+  margin-bottom: 0.6em;
+}
+
+section ul {
+  padding-left: 20px;
+  margin-top: 0.3em;
+}
+
+section ul li {
+  margin-bottom: 0.3em;
+  line-height: 1.6em;
+}
+
+h3 {
+  color: #e8ebf7;
+  font-size: 1.08em;
+  margin-bottom: 0.1em;
+}
+
+a {
+  color: #6fd3fb;
+  text-decoration: underline;
+}
+
+@media (max-width: 900px) {
+  .overlay {
+    padding: 15px 5vw;
+  }
+  header h1 { font-size: 2em; }
+}
