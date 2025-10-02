@@ -31,7 +31,7 @@
 
 <ul>
   <li><b>Programming:</b> Java, C++, Python </li>
-  <li><b>Principal Network Controller:</b> GCIS9Government Communications And Information Syetems</li>
+  <li><b>Principal Network Controller:</b> GCIS(Government Communications And Information Syetems)</li>
   <li><b>Systems:</b> Windows, Linux (Ubuntu), Mac OS</li>
   <li><b>Office:</b> MS Office Suite (2007–2021, 365)</li>
   <li><b>Internal Systems:</b> BAS, PERSAL, LOGIS</li>
