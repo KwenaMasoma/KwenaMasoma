@@ -20,9 +20,9 @@
 
 <ul>
   <li><b>Name:</b> Kwena Portia Masoma</li>
-  <li><b>Role:</b> Software Developer & IT Specialist</li>
+  <li><b>Role:</b>Desktop Support Technician |HelpDesk Support Technician | Aspiring Software Developer </li>
   <li><b>Contact:</b> <a href="mailto:koenamatuba@gmail.com">koenamatuba@gmail.com</a> | 📞 0826177073</li>
-  <li><b>Languages:</b> Sepedi, English, IsiZulu</li>
+  <li><b>Languages:</b> Sepedi, English, IsiZulu, Afrikaans, Venda</li>
   <li><b>Driver’s Licence:</b> C1</li>
 </ul>
 
@@ -30,10 +30,11 @@
 <h2>🛠️ Skills & Experience</h2>
 
 <ul>
-  <li><b>Programming:</b> Java, Debugging, Project Management</li>
-  <li><b>IT Support:</b> Principal Network Controller @ GCIS</li>
+  <li><b>Programming:</b> Java, C++, Python </li>
+  <li><b>Principal Network Controller:</b> GCIS9Government Communications And Information Syetems</li>
   <li><b>Systems:</b> Windows, Linux (Ubuntu), Mac OS</li>
   <li><b>Office:</b> MS Office Suite (2007–2021, 365)</li>
+  <li><b>Internal Systems:</b> BAS, PERSAL, LOGIS</li>
 </ul>
 
 <hr>
